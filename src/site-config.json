@@ -1,0 +1,548 @@
+{
+  "business": {
+    "name": "OCEAN SASH AND DOOR INC.",
+    "phone": "+14158631256",
+    "category": "window replacement company",
+    "city": "San Francisco",
+    "state": "CA"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-red-charge",
+      "categoryGroup": "roofing",
+      "name": "Red Charge",
+      "recipeFile": "roofing/red-charge.astro",
+      "colors": {
+        "primary": "#1F3A56",
+        "primaryDark": "#152B42",
+        "primaryLight": "#D0DCE8",
+        "secondary": "#2B4C6F",
+        "accent": "#DC143C",
+        "background": "#FFFFFF",
+        "backgroundAlt": "#1F3A56",
+        "surface": "#F5F7FA",
+        "text": "#111827",
+        "textLight": "#6B7280",
+        "textOnDark": "#FFFFFF",
+        "border": "#E5E7EB"
+      },
+      "typography": {
+        "headingFont": "DM Sans",
+        "headingWeight": "700",
+        "bodyFont": "Inter",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.2"
+      },
+      "shape": {
+        "borderRadius": "8px",
+        "buttonRadius": "8px",
+        "cardRadius": "12px",
+        "shadowStyle": "soft"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "surface",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/red-charge"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "San Francisco's Window Replacement Experts",
+      "heroSubline": "Ocean Sash and Door delivers quality window solutions with precision and care. Serving the Bay Area for over a decade.",
+      "aboutTitle": "Built on Quality, Rooted in San Francisco",
+      "aboutText": [
+        "Ocean Sash and Door was founded on a simple principle: provide San Francisco homeowners with superior window replacement services built on craftsmanship and integrity. We're not just installers; we're skilled tradespeople dedicated to preserving the architectural character of this city.",
+        "Our approach is hands-on and detail-oriented. From the initial consultation to the final inspection, we prioritize clear communication, meticulous workmanship, and lasting results. We understand the unique challenges of San Francisco homes, from fog-induced moisture to earthquake preparedness, and tailor our solutions accordingly.",
+        "We're committed to giving back to the community that has supported us. We actively participate in local initiatives, support neighborhood organizations, and prioritize sustainable practices in our operations. We believe in building a stronger, more resilient San Francisco, one window at a time."
+      ],
+      "valueProps": [
+        {
+          "title": "Expert Installation",
+          "description": "Precision window installation by experienced professionals, ensuring optimal performance and longevity."
+        },
+        {
+          "title": "Custom Solutions",
+          "description": "Tailored window replacement options to match your home's style, budget, and energy efficiency goals."
+        },
+        {
+          "title": "Quality Materials",
+          "description": "We source durable, high-performance windows from trusted manufacturers, built to withstand the San Francisco climate."
+        },
+        {
+          "title": "Local Expertise",
+          "description": "Deep understanding of San Francisco architecture, building codes, and unique challenges facing homeowners."
+        }
+      ],
+      "ctaHeadline": "Ready to Upgrade Your Windows?",
+      "ctaSubline": "Contact Ocean Sash and Door for a free consultation and experience the difference quality makes."
+    },
+    "services": [
+      {
+        "slug": "residential-window-replacement",
+        "name": "Residential Window Replacement",
+        "shortDescription": "Enhance your home's beauty and efficiency with our expert window replacement services.",
+        "description": "We specialize in residential window replacement, providing homeowners with durable, energy-efficient solutions tailored to the unique architectural styles found throughout San Francisco. Whether you own a classic Victorian in the Haight, a modern condo downtown, or a charming bungalow in the Sunset, we have the expertise to handle your window replacement project with precision and care.\n\nOur team will assess your existing windows, discuss your needs and preferences, and recommend the best replacement options to match your home's aesthetic and budget. We offer a wide selection of window styles, materials, and finishes to choose from, including wood, vinyl, fiberglass, and aluminum. We prioritize energy-efficient windows to help you reduce your energy bills and create a more comfortable living environment, especially with the fluctuating temperatures and frequent fog of the Bay Area.\n\nFrom initial measurements to final installation, we handle every aspect of the project with meticulous attention to detail. We ensure a perfect fit and proper sealing to prevent drafts, leaks, and noise pollution. Our goal is to provide you with beautiful, high-performing windows that enhance your home's value and comfort for years to come.",
+        "process": [
+          "Step 1: In-home consultation and assessment of existing windows.",
+          "Step 2: Detailed proposal outlining window options, materials, and pricing.",
+          "Step 3: Precise measurements and ordering of custom-fit windows.",
+          "Step 4: Professional installation with minimal disruption to your home."
+        ],
+        "benefits": [
+          "Improved energy efficiency and reduced energy bills",
+          "Enhanced home security and noise reduction",
+          "Increased property value and curb appeal",
+          "Customized window styles to match your home's architecture"
+        ],
+        "faq": [
+          {
+            "question": "How long does a typical window replacement project take?",
+            "answer": "The duration of a window replacement project depends on the number of windows being replaced and the complexity of the installation. We will provide you with a detailed timeline during the initial consultation."
+          },
+          {
+            "question": "Do you offer energy-efficient window options?",
+            "answer": "Yes, we offer a wide selection of energy-efficient windows designed to meet or exceed Energy Star standards. These windows can help you save money on your energy bills and reduce your carbon footprint."
+          },
+          {
+            "question": "Are your installers licensed and insured?",
+            "answer": "Yes, all of our installers are licensed, bonded, and insured for your peace of mind. We adhere to the highest safety standards and building codes."
+          }
+        ]
+      },
+      {
+        "slug": "commercial-window-replacement",
+        "name": "Commercial Window Replacement",
+        "shortDescription": "Upgrade your commercial space with durable, energy-efficient window solutions.",
+        "description": "Ocean Sash and Door provides comprehensive commercial window replacement services for businesses throughout San Francisco. From historic buildings in North Beach to modern office spaces in SOMA, we have the expertise to handle projects of any size and complexity.\n\nWe understand the unique challenges of commercial window replacement, including minimizing disruption to business operations, adhering to strict building codes, and ensuring compliance with energy efficiency standards. We work closely with property managers, architects, and contractors to develop customized window solutions that meet your specific needs and budget.\n\nOur team is experienced in installing a wide range of commercial window systems, including storefront windows, curtain walls, and ribbon windows. We use high-quality materials and advanced installation techniques to ensure long-lasting performance and energy savings. We also offer window film options to enhance privacy, reduce glare, and improve security. Whether you're looking to improve the aesthetics of your building, reduce energy costs, or enhance tenant comfort, Ocean Sash and Door is your trusted partner for commercial window replacement in San Francisco.",
+        "process": [
+          "Step 1: Site assessment and consultation with property managers.",
+          "Step 2: Development of customized window replacement plan.",
+          "Step 3: Permitting and compliance with building codes.",
+          "Step 4: Efficient and professional window installation."
+        ],
+        "benefits": [
+          "Improved energy efficiency and reduced operating costs",
+          "Enhanced building aesthetics and tenant satisfaction",
+          "Increased property value and marketability",
+          "Compliance with local building codes and regulations"
+        ],
+        "faq": [
+          {
+            "question": "Do you offer financing options for commercial window replacement projects?",
+            "answer": "Yes, we can connect you with reputable lenders who offer financing solutions for commercial building improvements."
+          },
+          {
+            "question": "Can you work around our business hours to minimize disruption?",
+            "answer": "Yes, we are flexible and can schedule our work to minimize disruption to your business operations. We can work evenings, weekends, or during off-peak hours."
+          },
+          {
+            "question": "Are your commercial window installations covered by a warranty?",
+            "answer": "Yes, all of our commercial window installations are backed by a comprehensive warranty covering both materials and workmanship."
+          }
+        ]
+      },
+      {
+        "slug": "window-repair-services",
+        "name": "Window Repair Services",
+        "shortDescription": "Extend the life of your windows with our expert repair and maintenance services.",
+        "description": "Ocean Sash and Door offers comprehensive window repair services to address a wide range of issues, from cracked glass and broken hardware to drafty frames and water leaks. We understand that replacing windows can be a significant investment, so we strive to provide cost-effective repair solutions that extend the life of your existing windows.\n\nOur skilled technicians have years of experience repairing all types of windows, including wood, vinyl, aluminum, and fiberglass. We use high-quality replacement parts and proven repair techniques to ensure lasting results. We can repair or replace damaged glass, repair or replace broken locks and latches, re-glaze windows to prevent air leaks, and repair or replace damaged window frames.\n\nWhether you have a single broken window or multiple windows in need of repair, Ocean Sash and Door is here to help. We offer prompt and reliable service, and we always provide upfront pricing before starting any work. We pride ourselves on our honest and transparent approach, and we're committed to providing you with the best possible window repair services in San Francisco.",
+        "process": [
+          "Step 1: Thorough inspection of damaged windows.",
+          "Step 2: Detailed repair plan and cost estimate.",
+          "Step 3: Professional repair or replacement of damaged components.",
+          "Step 4: Quality control and final inspection."
+        ],
+        "benefits": [
+          "Cost-effective alternative to window replacement",
+          "Extended window lifespan and performance",
+          "Improved energy efficiency and comfort",
+          "Enhanced home security and aesthetics"
+        ],
+        "faq": [
+          {
+            "question": "Can you repair windows in historic buildings?",
+            "answer": "Yes, we have experience repairing windows in historic buildings throughout San Francisco. We understand the importance of preserving the original character of these buildings, and we use appropriate repair techniques and materials."
+          },
+          {
+            "question": "Do you offer emergency window repair services?",
+            "answer": "Yes, we offer emergency window repair services for situations that pose a security risk or safety hazard. Contact us for immediate assistance."
+          },
+          {
+            "question": "How do I know if my windows need to be repaired or replaced?",
+            "answer": "If your windows are drafty, leaking, difficult to open or close, or have visible damage, it's time to consider repair or replacement. Contact us for a professional assessment."
+          }
+        ]
+      },
+      {
+        "slug": "window-insulation",
+        "name": "Window Insulation Services",
+        "shortDescription": "Seal your windows for optimal energy efficiency and comfort.",
+        "description": "Combat San Francisco's chilly fog and fluctuating temperatures with our professional window insulation services. Ocean Sash and Door specializes in sealing and insulating existing windows to improve energy efficiency, reduce drafts, and enhance comfort. We understand that many older San Francisco homes have original windows that may not be as energy-efficient as modern windows, so we offer a range of insulation solutions to help you maximize the performance of your existing windows.\n\nOur insulation services include weatherstripping, caulking, and window film application. We use high-quality materials and proven techniques to create a tight seal around your windows, preventing air leaks and reducing energy loss. We also offer window film options that can block harmful UV rays, reduce glare, and improve insulation. Our team can assess your windows and recommend the best insulation solutions to meet your specific needs and budget.\n\nBy insulating your windows, you can significantly reduce your energy bills, create a more comfortable living environment, and minimize noise pollution. Ocean Sash and Door is committed to providing you with cost-effective and reliable window insulation services that improve the performance and longevity of your windows.",
+        "process": [
+          "Step 1: Energy audit and window inspection.",
+          "Step 2: Sealing gaps around window frames.",
+          "Step 3: Application of weather stripping.",
+          "Step 4: Professional caulking application."
+        ],
+        "benefits": [
+          "Reduced energy bills and carbon footprint",
+          "Improved indoor comfort and temperature consistency",
+          "Reduced noise pollution from outside",
+          "Extended lifespan of windows"
+        ],
+        "faq": [
+          {
+            "question": "What type of weather stripping do you use?",
+            "answer": "We use a variety of weather stripping materials, including foam, felt, and silicone, depending on the type of window and the size of the gap. We'll choose the best option for your specific needs."
+          },
+          {
+            "question": "How long does window insulation last?",
+            "answer": "The lifespan of window insulation depends on the materials used and the weather conditions. Generally, weather stripping and caulking can last for several years with proper maintenance."
+          },
+          {
+            "question": "Can window film really improve insulation?",
+            "answer": "Yes, window film can significantly improve insulation by reducing heat transfer through the glass. It can also block harmful UV rays and reduce glare."
+          }
+        ]
+      },
+      {
+        "slug": "custom-window-design",
+        "name": "Custom Window Design and Installation",
+        "shortDescription": "Create unique window solutions tailored to your architectural vision.",
+        "description": "For homeowners seeking truly unique window solutions, Ocean Sash and Door offers custom window design and installation services. We work closely with architects, designers, and homeowners to create custom windows that perfectly match your architectural vision and enhance the beauty of your home. Whether you're looking for a specific shape, size, material, or finish, we can create windows that are tailored to your exact specifications.\n\nOur team has extensive experience in designing and installing custom windows in a variety of architectural styles, from Victorian and Edwardian to modern and contemporary. We use high-quality materials and advanced manufacturing techniques to ensure that your custom windows are both beautiful and durable. We also offer a wide range of glazing options, including energy-efficient glass, decorative glass, and privacy glass.\n\nFrom initial design to final installation, we handle every aspect of the project with meticulous attention to detail. We ensure that your custom windows are perfectly fitted and properly sealed to provide optimal performance and energy efficiency. Ocean Sash and Door is committed to providing you with exceptional custom window solutions that exceed your expectations.",
+        "process": [
+          "Step 1: Design consultation with architect/designer.",
+          "Step 2: Window design and material selection.",
+          "Step 3: Fabrication of custom windows.",
+          "Step 4: Professional installation and finishing."
+        ],
+        "benefits": [
+          "Unique window designs tailored to your style",
+          "Enhanced architectural aesthetics",
+          "Increased property value",
+          "Personalized window solutions"
+        ],
+        "faq": [
+          {
+            "question": "What types of materials can be used for custom windows?",
+            "answer": "We can create custom windows from a variety of materials, including wood, vinyl, aluminum, and fiberglass. We'll help you choose the best material based on your aesthetic preferences, budget, and performance requirements."
+          },
+          {
+            "question": "How long does it take to design and install custom windows?",
+            "answer": "The timeline for custom window design and installation depends on the complexity of the design and the availability of materials. We'll provide you with a detailed timeline during the initial consultation."
+          },
+          {
+            "question": "Do you offer a warranty on custom windows?",
+            "answer": "Yes, we offer a comprehensive warranty on all of our custom windows, covering both materials and workmanship."
+          }
+        ]
+      },
+      {
+        "slug": "window-screen-services",
+        "name": "Window Screen Services",
+        "shortDescription": "Enjoy fresh air without the pests with our window screen services.",
+        "description": "Ocean Sash and Door provides comprehensive window screen services, including screen repair, replacement, and custom screen fabrication. We understand the importance of having functional window screens in San Francisco, especially during the warmer months when you want to enjoy fresh air without letting in insects.\n\nOur team can repair or replace damaged window screens, including torn mesh, bent frames, and broken hardware. We use high-quality screen materials and durable hardware to ensure lasting performance. We also offer custom screen fabrication services for windows that require unique sizes or shapes. We can create screens for casement windows, sliding windows, and other specialty windows.\n\nWhether you need a single screen repaired or a complete set of new screens for your home, Ocean Sash and Door is here to help. We offer prompt and reliable service, and we always provide upfront pricing before starting any work. We're committed to providing you with the best possible window screen services in San Francisco.",
+        "process": [
+          "Step 1: Screen assessment and quote",
+          "Step 2: Screen repair or screen replacement",
+          "Step 3: Custom screen fabrication if needed",
+          "Step 4: Installation and quality check"
+        ],
+        "benefits": [
+          "Keeps insects out while letting fresh air in",
+          "Maintains good visibility",
+          "Protects interior from debris",
+          "Extends window life by reducing direct sunlight exposure"
+        ],
+        "faq": [
+          {
+            "question": "What materials do you use for window screens?",
+            "answer": "We use a variety of screen materials, including fiberglass, aluminum, and stainless steel. We'll help you choose the best material based on your needs and preferences."
+          },
+          {
+            "question": "How long does it take to repair or replace a window screen?",
+            "answer": "Most screen repairs can be completed within a few hours. Custom screen fabrication may take a few days, depending on the complexity of the design."
+          },
+          {
+            "question": "Can you match the color of my existing window screens?",
+            "answer": "Yes, we can match the color of your existing window screens to ensure a seamless look."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "San Francisco",
+        "slug": "san-francisco-ca",
+        "state": "CA",
+        "content": "Ocean Sash and Door Inc. is proud to offer premium window and door replacement services to homeowners in San Francisco. We understand the unique architectural styles and weather conditions that characterize this vibrant city, and we tailor our solutions to meet your specific needs. From classic Victorian homes to modern condominiums, we have the experience and expertise to enhance the beauty and energy efficiency of your San Francisco property.\n\nOur team is committed to providing exceptional craftsmanship and customer service. We use only the highest quality materials and employ skilled installers to ensure a flawless and long-lasting result. Whether you're looking to upgrade your existing windows and doors or embark on a complete home renovation project, Ocean Sash and Door Inc. is your trusted partner in San Francisco.",
+        "localContext": "San Francisco's diverse neighborhoods and microclimates demand adaptable window and door solutions. We are familiar with the specific requirements of homes in areas like Pacific Heights, the Sunset District, and Noe Valley.",
+        "nearbyAreas": [
+          "Oakland",
+          "Berkeley",
+          "Sausalito"
+        ]
+      },
+      {
+        "city": "Oakland",
+        "slug": "oakland-ca",
+        "state": "CA",
+        "content": "Ocean Sash and Door Inc. extends its expert window and door replacement services to the residents of Oakland, California. We recognize Oakland's unique blend of historic charm and modern development, and we provide customized solutions to complement any home style. Whether you reside in a Craftsman bungalow in Rockridge or a contemporary loft in Jack London Square, we have the perfect windows and doors to enhance your property's value and curb appeal.\n\nWe are committed to providing Oakland homeowners with energy-efficient and aesthetically pleasing options. Our team works closely with you to select the right materials and styles to match your specific needs and budget. With Ocean Sash and Door Inc., you can expect superior craftsmanship, reliable service, and lasting results for your Oakland home.",
+        "localContext": "Oakland's diverse architectural landscape, from Victorian homes to modern condos, requires a wide range of window and door styles. We understand the specific needs of homes in areas like Piedmont, Montclair, and Temescal.",
+        "nearbyAreas": [
+          "Berkeley",
+          "Alameda",
+          "San Leandro"
+        ]
+      },
+      {
+        "city": "Berkeley",
+        "slug": "berkeley-ca",
+        "state": "CA",
+        "content": "Ocean Sash and Door Inc. proudly serves the Berkeley community with top-quality window and door replacement services. We understand the unique character of Berkeley homes, from the historic Craftsman bungalows to the modern architectural designs. Our team is dedicated to providing customized solutions that enhance the beauty, energy efficiency, and value of your Berkeley property.\n\nWe offer a wide selection of windows and doors to suit your individual needs and preferences. Whether you're looking to restore the original charm of your home or modernize its appearance, Ocean Sash and Door Inc. has the expertise and experience to deliver exceptional results for Berkeley homeowners.",
+        "localContext": "Berkeley's commitment to sustainability makes energy-efficient windows and doors a popular choice. We understand the specific requirements of homes near the UC Berkeley campus and in neighborhoods like North Berkeley and Elmwood.",
+        "nearbyAreas": [
+          "Albany",
+          "Emeryville",
+          "Oakland"
+        ]
+      },
+      {
+        "city": "Sausalito",
+        "slug": "sausalito-ca",
+        "state": "CA",
+        "content": "Ocean Sash and Door Inc. provides premium window and door replacement services to the residents of Sausalito, California. We appreciate the unique coastal charm and architectural diversity of Sausalito homes, and we offer tailored solutions to enhance their beauty and value. Whether you live in a hillside home with stunning bay views or a charming houseboat, we have the perfect windows and doors to complement your Sausalito lifestyle.\n\nOur team is committed to providing exceptional craftsmanship and customer service. We use high-quality materials and employ skilled installers to ensure a flawless and long-lasting result. With Ocean Sash and Door Inc., you can enjoy enhanced energy efficiency, improved aesthetics, and increased comfort in your Sausalito home.",
+        "localContext": "Sausalito's waterfront location and unique architectural styles require specialized window and door solutions. We understand the specific needs of homes in areas like downtown Sausalito and along Bridgeway.",
+        "nearbyAreas": [
+          "Mill Valley",
+          "Tiburon",
+          "San Francisco"
+        ]
+      },
+      {
+        "city": "Mill Valley",
+        "slug": "mill-valley-ca",
+        "state": "CA",
+        "content": "Ocean Sash and Door Inc. is delighted to offer window and door replacement services to the homeowners of Mill Valley, California. We understand the town's natural beauty and unique architectural styles, from redwood-clad homes to contemporary designs. We offer customized solutions to enhance the aesthetic appeal, energy efficiency, and value of your Mill Valley property.\n\nWe are dedicated to providing Mill Valley residents with the highest quality products and services. Our team works closely with you to select the right windows and doors to match your home's style and your personal preferences. With Ocean Sash and Door Inc., you can expect superior craftsmanship, reliable service, and lasting results.",
+        "localContext": "Mill Valley's proximity to nature and varied home styles require durable and aesthetically pleasing window and door options. We understand the specific needs of homes in areas like Tam Valley and downtown Mill Valley.",
+        "nearbyAreas": [
+          "Sausalito",
+          "Tiburon",
+          "San Rafael"
+        ]
+      },
+      {
+        "city": "San Rafael",
+        "slug": "san-rafael-ca",
+        "state": "CA",
+        "content": "Ocean Sash and Door Inc. extends its expert window and door replacement services to the residents of San Rafael, California. We understand the diverse architectural styles found in San Rafael, from historic Victorian homes to modern developments. Our team provides tailored solutions to enhance the beauty, energy efficiency, and overall value of your San Rafael home.\n\nWe are committed to providing San Rafael homeowners with a wide range of window and door options to suit their specific needs and preferences. Whether you're looking to upgrade your existing windows and doors or embark on a complete home renovation project, Ocean Sash and Door Inc. is your trusted partner in San Rafael.",
+        "localContext": "San Rafael's mix of residential and commercial properties requires versatile window and door solutions. We are familiar with the specific requirements of homes in areas like downtown San Rafael and near Dominican University.",
+        "nearbyAreas": [
+          "Novato",
+          "Mill Valley",
+          "Larkspur"
+        ]
+      },
+      {
+        "city": "Novato",
+        "slug": "novato-ca",
+        "state": "CA",
+        "content": "Ocean Sash and Door Inc. is proud to offer window and door replacement services to homeowners in Novato, California. We understand the town's suburban character and diverse housing styles, and we tailor our solutions to meet your specific needs. Whether you reside in a single-family home or a modern townhouse, we have the perfect windows and doors to enhance your property's value and curb appeal.\n\nOur team is committed to providing exceptional craftsmanship and customer service. We use only the highest quality materials and employ skilled installers to ensure a flawless and long-lasting result. With Ocean Sash and Door Inc., you can expect superior results for your Novato home.",
+        "localContext": "Novato's climate and diverse housing styles require energy-efficient and aesthetically pleasing window and door options. We understand the specific needs of homes in areas like Ignacio and downtown Novato.",
+        "nearbyAreas": [
+          "Petaluma",
+          "San Rafael",
+          "Sonoma"
+        ]
+      },
+      {
+        "city": "Alameda",
+        "slug": "alameda-ca",
+        "state": "CA",
+        "content": "Ocean Sash and Door Inc. provides window and door replacement services to the residents of Alameda, California. We appreciate Alameda's unique blend of historic charm and modern living, and we offer tailored solutions to complement any home style. Whether you live in a Victorian home on a tree-lined street or a modern condo with bay views, we have the perfect windows and doors to enhance your property's beauty and value.\n\nOur team is committed to providing exceptional craftsmanship and customer service. We use high-quality materials and employ skilled installers to ensure a flawless and long-lasting result. With Ocean Sash and Door Inc., you can enjoy enhanced energy efficiency, improved aesthetics, and increased comfort in your Alameda home.",
+        "localContext": "Alameda's historic architecture and coastal location require specialized window and door solutions. We understand the specific needs of homes in areas like the Gold Coast and near the Alameda Naval Air Station.",
+        "nearbyAreas": [
+          "Oakland",
+          "San Leandro",
+          "San Francisco"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Maria S.",
+        "rating": 5,
+        "service": "Residential Window Replacement",
+        "text": "Ocean Sash and Door did an amazing job replacing the windows in my Victorian home in the Mission. They were professional, efficient, and the new windows look fantastic! The team was respectful of my home and cleaned up everything perfectly. Highly recommend!",
+        "date": "2024-11-15"
+      },
+      {
+        "name": "David P.",
+        "rating": 4,
+        "service": "Window Repair Services",
+        "text": "I had a broken window in my condo in South Beach, and Ocean Sash and Door came to the rescue quickly. They were able to repair the window instead of replacing it, which saved me a lot of money. The repair was done well and the window looks great now.",
+        "date": "2024-10-28"
+      },
+      {
+        "name": "Jennifer K.",
+        "rating": 5,
+        "service": "Custom Window Design",
+        "text": "We worked with Ocean Sash and Door to design custom windows for our home renovation project in Pacific Heights. The team was incredibly creative and helped us bring our vision to life. The windows are stunning and have completely transformed the look of our home.",
+        "date": "2024-09-05"
+      },
+      {
+        "name": "Robert L.",
+        "rating": 5,
+        "service": "Commercial Window Replacement",
+        "text": "Ocean Sash and Door replaced the windows in our office building downtown. They were very professional and efficient, and they minimized disruption to our business operations. The new windows look great and have improved the energy efficiency of our building.",
+        "date": "2024-08-12"
+      },
+      {
+        "name": "Susan M.",
+        "rating": 4,
+        "service": "Window Insulation Services",
+        "text": "I had Ocean Sash and Door insulate the windows in my home, and it has made a huge difference in the comfort level. My home is much warmer in the winter and cooler in the summer and my energy bills have gone down. Great service!",
+        "date": "2024-07-20"
+      },
+      {
+        "name": "Tom B.",
+        "rating": 5,
+        "service": "Window Screen Services",
+        "text": "Excellent service! Ocean Sash and Door repaired all the torn screens in my house. They were quick, affordable, and did a fantastic job. Now I can finally open my windows without worrying about bugs.",
+        "date": "2024-06-01"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Ocean Sash and Door: San Francisco Window Replacement",
+        "description": "Expert window replacement services in San Francisco. Quality installation, custom solutions, and local expertise. Free consultations."
+      },
+      "about": {
+        "title": "About Ocean Sash and Door | San Francisco Window Experts",
+        "description": "Learn about Ocean Sash and Door's commitment to quality, community, and superior window replacement services in the San Francisco Bay Area."
+      },
+      "services": {
+        "title": "Window Services | San Francisco's Ocean Sash and Door",
+        "description": "Comprehensive window replacement, repair, and insulation solutions for residential and commercial properties in San Francisco."
+      },
+      "contact": {
+        "title": "Contact Ocean Sash and Door | San Francisco Window Pros",
+        "description": "Contact Ocean Sash and Door for expert window replacement, repair, and custom solutions in San Francisco. Get a free consultation today!"
+      },
+      "reviews": {
+        "title": "Ocean Sash and Door Reviews | San Francisco Window Company",
+        "description": "Read reviews from satisfied Ocean Sash and Door customers in San Francisco. See why we're the trusted choice for window replacement and repair."
+      },
+      "service-areas": {
+        "title": "Ocean Sash and Door Service Areas",
+        "description": "View service areas we provide window replacement and repair in the San Francisco Bay Area. Contact us today!"
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 15,
+      "projectsCompleted": "1200+",
+      "satisfaction": "98%",
+      "teamSize": "25+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "residential-window-replacement": "/images/service-residential-window-replacement.webp",
+      "commercial-window-replacement": "/images/service-commercial-window-replacement.webp",
+      "window-repair-services": "/images/service-window-repair-services.webp",
+      "window-insulation": "/images/service-window-insulation.webp",
+      "custom-window-design": "/images/service-custom-window-design.webp",
+      "window-screen-services": "/images/service-window-screen-services.webp"
+    },
+    "servicesResponsive": {
+      "residential-window-replacement": {
+        "src": "/images/service-residential-window-replacement.webp",
+        "srcset": "/images/service-residential-window-replacement-400w.webp 400w, /images/service-residential-window-replacement-800w.webp 800w, /images/service-residential-window-replacement-1200w.webp 1200w, /images/service-residential-window-replacement.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "commercial-window-replacement": {
+        "src": "/images/service-commercial-window-replacement.webp",
+        "srcset": "/images/service-commercial-window-replacement-400w.webp 400w, /images/service-commercial-window-replacement-800w.webp 800w, /images/service-commercial-window-replacement-1200w.webp 1200w, /images/service-commercial-window-replacement.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "window-repair-services": {
+        "src": "/images/service-window-repair-services.webp",
+        "srcset": "/images/service-window-repair-services-400w.webp 400w, /images/service-window-repair-services-800w.webp 800w, /images/service-window-repair-services-1200w.webp 1200w, /images/service-window-repair-services.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "window-insulation": {
+        "src": "/images/service-window-insulation.webp",
+        "srcset": "/images/service-window-insulation-400w.webp 400w, /images/service-window-insulation-800w.webp 800w, /images/service-window-insulation-1200w.webp 1200w, /images/service-window-insulation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "custom-window-design": {
+        "src": "/images/service-custom-window-design.webp",
+        "srcset": "/images/service-custom-window-design-400w.webp 400w, /images/service-custom-window-design-800w.webp 800w, /images/service-custom-window-design-1200w.webp 1200w, /images/service-custom-window-design.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "window-screen-services": {
+        "src": "/images/service-window-screen-services.webp",
+        "srcset": "/images/service-window-screen-services-400w.webp 400w, /images/service-window-screen-services-800w.webp 800w, /images/service-window-screen-services-1200w.webp 1200w, /images/service-window-screen-services.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
